@@ -1,0 +1,6 @@
+@SelfServiceCheckoutApi_HostAddress = http://localhost:5206
+
+GET {{SelfServiceCheckoutApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
